@@ -21,4 +21,4 @@ app.post("/users", async (req, res, next) => {
   );
   res.send("succesfully added");
 });
-app.listen(3000);
+app.listen(3001);
